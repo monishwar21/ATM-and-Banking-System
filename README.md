@@ -69,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="922" height="730" alt="Screenshot 2026-11-20 114459" src="https://github.com/user-attachments/assets/1085d691-5c5c-466f-9a2b-edde73ffe051" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -89,6 +90,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="916" height="547" alt="image" src="https://github.com/user-attachments/assets/fc8765ee-a923-4063-872f-6ee795c64d39" />
 
 
 
@@ -130,6 +132,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="938" height="627" alt="Screenshot 2026-11-20 114842" src="https://github.com/user-attachments/assets/34bc5b13-ed97-43ef-a44c-e95710bc9f87" />
 
 
 
